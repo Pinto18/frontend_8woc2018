@@ -20,7 +20,7 @@ Currently, the front end is configured to run on _http://localhost:3000_. Feel f
 1.	As a user, I want to search for a verse in the Bible so that I can recall that specific verse.
 
 
-##**Document Your Setup:**
+## **Document Your Setup:**
 Please include a detailed documentation of how to setup and recreate the environment you used for this assignment. For instance, if you used MongoDB to store objects called by the API, then be sure to add detailed steps for installing and running MongoDB on your computer. The goal is to easily communicate to someone else how to implement your solution with as few assumptions as possible.
 
 
