@@ -3,6 +3,7 @@
 ## **Challenge:**
 A Front-End Developer at Wycliffe Associates developed the front-end for a web application. This application prompts the user to type in the book title, chapter number, and verse number for a passage in the Bible. Once entered, the user must click a button, and that specific passage will pop-up on the user’s screen in an editable text field. However, the Front-End Developer has little experience developing backends for applications. 
 
+
 ## **Criteria:**
 Clone the GitHub repository found at the URL above, and create an API which provides endpoints for the application so that we can develop a fully-functioning Bible passage querying web app. Feel free to use any programming language you want to develop this API. This project will require setting up a database to query from that matches the information the user must provide to the UI. Any query to your database should return a JSON object of the following format:
 
@@ -15,8 +16,13 @@ Clone the GitHub repository found at the URL above, and create an API which prov
  
 Currently, the front end is configured to run on _http://localhost:3000_. Feel free to make any necessary changes to the front-end code to improve the configurations or UI. Use the user stories below to get a better understanding of what features we are asking you to code: 
 
-## **User Story:**
+### **User Story:**
 1.	As a user, I want to search for a verse in the Bible so that I can recall that specific verse.
+
+
+##**Document Your Setup:**
+Please include a detailed documentation of how to setup and recreate the environment you used for this assignment. For instance, if you used MongoDB to store objects called by the API, then be sure to add detailed steps for installing and running MongoDB on your computer. The goal is to easily communicate to someone else how to implement your solution with as few assumptions as possible.
+
 
 ## **Extra Credit:**
 ### **PLEASE NOTE:**
