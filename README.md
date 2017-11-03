@@ -21,7 +21,7 @@ Currently, the front end is configured to run on _http://localhost:3000_. Feel f
 
 
 ## **Document Your Setup:**
-Please include a detailed documentation of how to setup and recreate the environment you used for this assignment. For instance, if you used MongoDB to store objects called by the API, then be sure to add detailed steps for installing and running MongoDB on your computer. The goal is to easily communicate to someone else how to implement your solution with as few assumptions as possible.
+Please include a detailed documentation of how to setup and recreate the environment you used for this assignment. For instance, if you used MongoDB to store objects called by the API, then be sure to add detailed steps for installing and running MongoDB on your computer. The goal is to easily communicate to someone else how to implement your solution with as few assumptions as possible. An example can be found in Example_Setup_File.txt found in this repository.
 
 
 ## **Extra Credit:**
