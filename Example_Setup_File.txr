@@ -1,0 +1,19 @@
+The goal of this doument should be to explain how to setup the environment required to run your project with as many steps as necessary 
+so that anyone could read your document and get your submission running on their computer with as few assumptions as possible. An example
+for this front end can be seen below:
+
+1) My Environment: 
+    Surface Pro Running Windows 10
+    
+2) Installations:
+    1. Node.JS:
+       a. Windows: Follow this link, https://nodejs.org/en/download/, then click on "Windows Installer" and save the executable to your
+                   downloads folder. Then, open File Explorer, navigate to your Downloads folder, and double click on the file you just
+                   saved. Follow the installation instructions from there.
+    
+3) Run the project:
+    1. Open up your command prompt
+    2. Change your directory to the folder containing the Git Repository for this project.
+    3. Type in the command "npm install" (Only need to do this once)
+    4. Type in the command "npm start"
+       - From this point your default browser should open up and navigate automatically to http://localhost:9000, where the project is running
