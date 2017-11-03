@@ -16,10 +16,10 @@ for this front end can be seen below:
 
     1. Node.JS:
 
-       a. Windows: Follow this link, https://nodejs.org/en/download/, then click on "Windows Installer" and save the executable
-                   to your
- downloads folder. Then, open File Explorer, navigate to your Downloads folder, and double click on 
-                   the file you just
+       a. Follow this link, https://nodejs.org/en/download/, then click on installer that matches your OS and save the 
+          executable to your
+ downloads folder. Then, open File Explorer, navigate to your Downloads folder, and double click 
+          on the file you just
  saved. Follow the installation instructions from there.
     
 
